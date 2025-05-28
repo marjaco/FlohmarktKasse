@@ -5,3 +5,6 @@
 *.odt
 bin/
 *.jar
+.flohmarktauswertung/
+*.zip
+*.jar-alt
