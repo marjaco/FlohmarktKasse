@@ -1,0 +1,7 @@
+*.flohmarkt
+.classpath
+.flohmarktkasse/
+.settings
+*.odt
+bin/
+*.jar

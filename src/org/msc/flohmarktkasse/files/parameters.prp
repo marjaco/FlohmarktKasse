@@ -1,0 +1,9 @@
+#Parameter für FlohmarktKasse
+inputPanel=North
+baseFontSize=12
+minSellerId=10
+maxSellerId=149
+minPrice=0.5
+maxPrice=20
+priceStep=0.5
+badSellerIds = 50,56,62,68,74,80,86,92,98,104,110,116,122,128,134,140,146,152,158,164,170
